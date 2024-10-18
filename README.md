@@ -61,12 +61,21 @@ bank-management-system/
 
 ## Usage 💡
 Choose an option from the menu:
+
 Create New Account 🆕
+<br>
 Deposit Money 💵
+<br>
 Withdraw Money 💳
+<br>
 Check Account Details 🔍
+<br>
 Modify Account ✏️
+<br>
 Delete Account 🗑️
+<br>
 Show All Accounts 📊
+<br>
 Exit 🚪
+<br>
 Follow the prompts to perform actions related to bank accounts.
