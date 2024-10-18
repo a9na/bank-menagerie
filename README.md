@@ -1,6 +1,6 @@
 # Bank Management System 🏦
 
-A simple console-based Bank Management System that allows users to create, modify, and manage accounts, perform transactions 💸, and log actions for record-keeping! 📄
+Bank Management System that allows users to create, modify, and manage accounts, perform transactions 💸, and log actions for record-keeping! 📄
 
 ## Table of Contents 📚
 - [Features ✨](#features)
